@@ -1,0 +1,15 @@
+var json_Hospitales_Publicos_2 = {
+"type": "FeatureCollection",
+"name": "Hospitales_Publicos_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": "1", "Nombre": "Hospital Universitario Central de Asturias", "NºCamas": null, "Area": null, "Contacto": 985108000.0, "Dirección": "Avenida de Roma, s\/n", "Municipio": "Oviedo", "Tipo": "Público", "Lat": 43.375356, "Long": -5.827138 }, "geometry": { "type": "Point", "coordinates": [ -5.827138, 43.375355999058193 ] } },
+{ "type": "Feature", "properties": { "fid": "2", "Nombre": "Hospital de Jarrio", "NºCamas": null, "Area": null, "Contacto": 985639300.0, "Dirección": "Calle Jarrio, s\/n", "Municipio": "Coaña", "Tipo": "Público", "Lat": 43.544217, "Long": -6.747167 }, "geometry": { "type": "Point", "coordinates": [ -6.747167, 43.544216999057909 ] } },
+{ "type": "Feature", "properties": { "fid": "3", "Nombre": "Hospital de San Agustín", "NºCamas": "436", "Area": "3", "Contacto": 985123000.0, "Dirección": "Camino de Heros, 4", "Municipio": "Avilés", "Tipo": "Público", "Lat": 43.55165, "Long": -5.935653 }, "geometry": { "type": "Point", "coordinates": [ -5.935653, 43.551649999057886 ] } },
+{ "type": "Feature", "properties": { "fid": "4", "Nombre": "Hospital Carmen y Severo Ochoa", "NºCamas": null, "Area": null, "Contacto": 985812346.0, "Dirección": "Calle Sienra, 11", "Municipio": "Cangas del Narcea", "Tipo": "Público", "Lat": 43.165707, "Long": -6.54143 }, "geometry": { "type": "Point", "coordinates": [ -6.54143, 43.165706999058592 ] } },
+{ "type": "Feature", "properties": { "fid": "5", "Nombre": "Hospital de Cabueñes", "NºCamas": null, "Area": null, "Contacto": 985185000.0, "Dirección": "Los Prados, 395", "Municipio": "Gijón", "Tipo": "Público", "Lat": 43.525147, "Long": -5.607082 }, "geometry": { "type": "Point", "coordinates": [ -5.607082, 43.525146999057931 ] } },
+{ "type": "Feature", "properties": { "fid": "6", "Nombre": "Hospital Valle del Nalón", "NºCamas": null, "Area": null, "Contacto": 985652000.0, "Dirección": "Polígono de Riaño", "Municipio": "Langreo", "Tipo": "Público", "Lat": 43.328273, "Long": -5.721783 }, "geometry": { "type": "Point", "coordinates": [ -5.721783, 43.328272999058278 ] } },
+{ "type": "Feature", "properties": { "fid": "7", "Nombre": "Hospital Álvarez Buylla", "NºCamas": null, "Area": null, "Contacto": 985458500.0, "Dirección": "Murias-Mieres, s\/n", "Municipio": "Mieres", "Tipo": "Público", "Lat": 43.227101, "Long": -5.781179 }, "geometry": { "type": "Point", "coordinates": [ -5.781179, 43.227100999058479 ] } },
+{ "type": "Feature", "properties": { "fid": "8", "Nombre": "Hospital del Oriente de Asturias - Francisco Grande Covián", "NºCamas": null, "Area": null, "Contacto": 985840032.0, "Dirección": "Calle Castañera, 32", "Municipio": "Parres", "Tipo": "Público", "Lat": 43.381679, "Long": -5.184835 }, "geometry": { "type": "Point", "coordinates": [ -5.184835, 43.38167899905816 ] } }
+]
+}
